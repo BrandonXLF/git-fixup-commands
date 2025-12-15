@@ -1,0 +1,1 @@
+Cannot use both --pause and --interactive

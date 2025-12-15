@@ -1,0 +1,36 @@
+@@ -1,22 +1,6 @@
+-* commit 133005c8ee2e4184bfdcdc0ccc1cab55c05327f4
++* commit 9c7e519c22361d96bbbdc1e52ccf7c175cb9a10a
+ | Author:     Brandon Fowler <brandfowl@gmail.com>
+ | AuthorDate: Thu Dec 18 18:48:20 2025 -0500
+-| Commit:     Brandon Fowler <brandfowl@gmail.com>
+-| CommitDate: Thu Dec 18 18:48:20 2025 -0500
+-| 
+-|     Commit 4
+-| 
+-| diff --git a/b b/b
+-| index 57f8ab2..effc38c 100644
+-| --- a/b
+-| +++ b/b
+-| @@ -3 +3 @@ File b
+-| -2
+-| +2.1
+-| 
+-* commit d779932e4d5a046d0d75b8b7f5ef77009e81bc75
+-| Author:     Brandon Fowler <brandfowl@gmail.com>
+-| AuthorDate: Thu Dec 18 18:48:20 2025 -0500
+-| Commit:     Brandon Fowler <brandfowl@gmail.com>
+-| CommitDate: Thu Dec 18 18:48:20 2025 -0500
++| Commit:     Tester <test@invalid>
++| CommitDate: Thu Jan 1 12:00:00 2026 +0000
+ | 
+@@ -25,5 +9,8 @@
+ | diff --git a/a b/a
+-| index 3e58f12..2e04ccc 100644
++| index 3e58f12..894a9bd 100644
+ | --- a/a
+ | +++ b/a
++| @@ -1 +1 @@
++| -This is a file
++| +This is a file.
+ | @@ -3,0 +4,2 @@ It has text!

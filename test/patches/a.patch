@@ -1,0 +1,10 @@
+git diff --staged > "../Test Amend/staged.txt"diff --git a/a b/a
+index 2e04ccc..894a9bd 100644
+--- a/a
++++ b/a
+@@ -1,4 +1,4 @@
+-This is a file
++This is a file.
+ 
+ It has text!
+ 

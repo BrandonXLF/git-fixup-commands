@@ -1,0 +1,76 @@
+@@ -1,6 +1,6 @@
+-* commit 0969842fb692c7a65f04460e6510e2c9f3ea85cb
++* commit 2c1f36c3941d2f023bb7f7c1afbeafe1be452a54
+ | Author:     Brandon Fowler <brandfowl@gmail.com>
+ | AuthorDate: Thu Dec 18 18:46:05 2025 -0500
+-| Commit:     Brandon Fowler <brandfowl@gmail.com>
+-| CommitDate: Thu Dec 18 18:46:05 2025 -0500
++| Commit:     Tester <test@invalid>
++| CommitDate: Thu Jan 1 12:00:00 2026 +0000
+ | 
+@@ -9,6 +9,6 @@
+ | diff --git a/a b/a
+-| index 1dd8e74..6f6eaef 100644
++| index 32c3a14..35dfd8c 100644
+ | --- a/a
+ | +++ b/a
+-| @@ -4,0 +5 @@
++| @@ -4,0 +5 @@ w123
+ | +!!!
+@@ -21,8 +21,8 @@
+ |   
+-*   commit eacff5204b74a7b2795fc872353d733a90356ba2 (from 408593dc41a63c4cd9fd4c0c62ef182741463e0a)
+-|\  Merge: 408593d 8e19709
++*   commit c7bfbadfadbde141c042318d3359f223b2d461d7 (from 2a5dd691d2aeb463df2df01a566bad04025dd468)
++|\  Merge: 2a5dd69 8e19709
+ | | Author:     Brandon Fowler <brandfowl@gmail.com>
+ | | AuthorDate: Thu Dec 18 18:46:05 2025 -0500
+-| | Commit:     Brandon Fowler <brandfowl@gmail.com>
+-| | CommitDate: Thu Dec 18 18:46:05 2025 -0500
++| | Commit:     Tester <test@invalid>
++| | CommitDate: Thu Jan 1 12:00:00 2026 +0000
+ | | 
+@@ -38,8 +38,8 @@
+ | | 
+-| | commit eacff5204b74a7b2795fc872353d733a90356ba2 (from 8e19709f96737a562597763c3d5d1908e549ac36)
+-| | Merge: 408593d 8e19709
++| | commit c7bfbadfadbde141c042318d3359f223b2d461d7 (from 8e19709f96737a562597763c3d5d1908e549ac36)
++| | Merge: 2a5dd69 8e19709
+ | | Author:     Brandon Fowler <brandfowl@gmail.com>
+ | | AuthorDate: Thu Dec 18 18:46:05 2025 -0500
+-| | Commit:     Brandon Fowler <brandfowl@gmail.com>
+-| | CommitDate: Thu Dec 18 18:46:05 2025 -0500
++| | Commit:     Tester <test@invalid>
++| | CommitDate: Thu Jan 1 12:00:00 2026 +0000
+ | | 
+@@ -48,5 +48,8 @@
+ | | diff --git a/a b/a
+-| | index ce8c77d..1dd8e74 100644
++| | index ce8c77d..32c3a14 100644
+ | | --- a/a
+ | | +++ b/a
++| | @@ -1 +1 @@
++| | -123
++| | +w123
+ | | @@ -2,0 +3,2 @@
+@@ -55,7 +58,7 @@
+ | | 
+-* | commit 408593dc41a63c4cd9fd4c0c62ef182741463e0a
++* | commit 2a5dd691d2aeb463df2df01a566bad04025dd468
+ | | Author:     Brandon Fowler <brandfowl@gmail.com>
+ | | AuthorDate: Thu Dec 18 18:46:05 2025 -0500
+-| | Commit:     Brandon Fowler <brandfowl@gmail.com>
+-| | CommitDate: Thu Dec 18 18:46:05 2025 -0500
++| | Commit:     Tester <test@invalid>
++| | CommitDate: Thu Jan 1 12:00:00 2026 +0000
+ | | 
+@@ -64,5 +67,8 @@
+ | | diff --git a/a b/a
+-| | index af7864b..1dd8e74 100644
++| | index af7864b..32c3a14 100644
+ | | --- a/a
+ | | +++ b/a
++| | @@ -1 +1 @@
++| | -123
++| | +w123
+ | | @@ -3,0 +4 @@

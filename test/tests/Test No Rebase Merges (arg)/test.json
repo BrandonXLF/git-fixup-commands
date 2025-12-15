@@ -1,0 +1,6 @@
+{
+	"repo": "merge",
+	"patch": "merge-a.patch",
+	"type": "fixup",
+	"args": ["--no-rebase-merges", "8e19709f96737a562597763c3d5d1908e549ac36"]
+}
