@@ -1,0 +1,7 @@
+{
+	"repo": "repo",
+	"patch": "a.patch",
+	"type": "fixup",
+	"args": ["--pause", "-i", "d779932e4d5a046d0d75b8b7f5ef77009e81bc75"],
+	"test_out": true
+}

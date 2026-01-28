@@ -1,0 +1,10 @@
+diff --git a/b b/b
+index 459520c..ee1ec50 100644
+--- a/b
++++ b/b
+@@ -1,4 +1,4 @@
+-abc
++wabc
+ def
+ ghi
+ jkl

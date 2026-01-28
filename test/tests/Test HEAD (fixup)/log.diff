@@ -1,0 +1,20 @@
+@@ -1,6 +1,6 @@
+-* commit 133005c8ee2e4184bfdcdc0ccc1cab55c05327f4
++* commit 7e342f45cbdf8ec25a2e7e43605b34dd1d33f885
+ | Author:     Brandon Fowler <brandfowl@gmail.com>
+ | AuthorDate: Thu Dec 18 18:48:20 2025 -0500
+-| Commit:     Brandon Fowler <brandfowl@gmail.com>
+-| CommitDate: Thu Dec 18 18:48:20 2025 -0500
++| Commit:     Tester <test@invalid>
++| CommitDate: Thu Jan 1 12:00:00 2026 +0000
+ | 
+@@ -8,2 +8,9 @@
+ | 
++| diff --git a/a b/a
++| index 2e04ccc..894a9bd 100644
++| --- a/a
++| +++ b/a
++| @@ -1 +1 @@
++| -This is a file
++| +This is a file.
+ | diff --git a/b b/b

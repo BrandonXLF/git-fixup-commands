@@ -1,0 +1,6 @@
+{
+	"repo": "merge",
+	"patch": "merge-b.patch",
+	"type": "fixup",
+	"args": ["380d74676d5719aa52515f267163f0da06717427"]
+}

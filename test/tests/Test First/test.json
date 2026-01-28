@@ -1,0 +1,6 @@
+{
+	"repo": "repo",
+	"patch": "a.patch",
+	"type": "fixup",
+	"args": ["3617455c8adca8e4d454a3f5dc61c202c1565525"]
+}

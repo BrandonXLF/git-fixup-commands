@@ -1,0 +1,171 @@
+* commit 752951a67cfde059caeffebcc7ab304ddcac11d7
+| Author:     Brandon Fowler <brandfowl@gmail.com>
+| AuthorDate: Thu Dec 18 18:46:05 2025 -0500
+| Commit:     Tester <test@invalid>
+| CommitDate: Thu Jan 1 12:00:00 2026 +0000
+| 
+|     5
+| 
+| diff --git a/a b/a
+| index 1dd8e74..6f6eaef 100644
+| --- a/a
+| +++ b/a
+| @@ -4,0 +5 @@
+| +!!!
+| diff --git a/b b/b
+| index a18dc7a..ee1ec50 100644
+| --- a/b
+| +++ b/b
+| @@ -4,0 +5 @@ jkl
+| +mno
+|   
+*   commit 66da098ccdfd184ed2712ec8f30017211e538ad4 (from 408593dc41a63c4cd9fd4c0c62ef182741463e0a)
+|\  Merge: 408593d 21d088d
+| | Author:     Brandon Fowler <brandfowl@gmail.com>
+| | AuthorDate: Thu Dec 18 18:46:05 2025 -0500
+| | Commit:     Tester <test@invalid>
+| | CommitDate: Thu Jan 1 12:00:00 2026 +0000
+| | 
+| |     Merge branch 'b'
+| | 
+| | diff --git a/b b/b
+| | index 5f5521f..a18dc7a 100644
+| | --- a/b
+| | +++ b/b
+| | @@ -1 +1 @@
+| | -abc
+| | +wabc
+| | @@ -2,0 +3,2 @@ def
+| | +ghi
+| | +jkl
+| | 
+| | commit 66da098ccdfd184ed2712ec8f30017211e538ad4 (from 21d088d4f3057c32e1927bdf59577d67fed15e18)
+| | Merge: 408593d 21d088d
+| | Author:     Brandon Fowler <brandfowl@gmail.com>
+| | AuthorDate: Thu Dec 18 18:46:05 2025 -0500
+| | Commit:     Tester <test@invalid>
+| | CommitDate: Thu Jan 1 12:00:00 2026 +0000
+| | 
+| |     Merge branch 'b'
+| | 
+| | diff --git a/a b/a
+| | index ce8c77d..1dd8e74 100644
+| | --- a/a
+| | +++ b/a
+| | @@ -2,0 +3,2 @@
+| | +789
+| | +---
+| | 
+* | commit 408593dc41a63c4cd9fd4c0c62ef182741463e0a
+| | Author:     Brandon Fowler <brandfowl@gmail.com>
+| | AuthorDate: Thu Dec 18 18:46:05 2025 -0500
+| | Commit:     Brandon Fowler <brandfowl@gmail.com>
+| | CommitDate: Thu Dec 18 18:46:05 2025 -0500
+| | 
+| |     A4
+| | 
+| | diff --git a/a b/a
+| | index af7864b..1dd8e74 100644
+| | --- a/a
+| | +++ b/a
+| | @@ -3,0 +4 @@
+| | +---
+| | 
+| * commit 21d088d4f3057c32e1927bdf59577d67fed15e18
+| | Author:     Brandon Fowler <brandfowl@gmail.com>
+| | AuthorDate: Thu Dec 18 18:46:05 2025 -0500
+| | Commit:     Tester <test@invalid>
+| | CommitDate: Thu Jan 1 12:00:00 2026 +0000
+| | 
+| |     B4
+| | 
+| | diff --git a/b b/b
+| | index 7e7bb22..a18dc7a 100644
+| | --- a/b
+| | +++ b/b
+| | @@ -3,0 +4 @@ ghi
+| | +jkl
+| | 
+* | commit dead1fd1c887b11fc3b575ef1f1d040a0afcb4ff
+| | Author:     Brandon Fowler <brandfowl@gmail.com>
+| | AuthorDate: Thu Dec 18 18:46:05 2025 -0500
+| | Commit:     Brandon Fowler <brandfowl@gmail.com>
+| | CommitDate: Thu Dec 18 18:46:05 2025 -0500
+| | 
+| |     A3
+| | 
+| | diff --git a/a b/a
+| | index ce8c77d..af7864b 100644
+| | --- a/a
+| | +++ b/a
+| | @@ -2,0 +3 @@
+| | +789
+| | 
+| * commit 4ef959145568766afb1986b6400ffd5999388f38
+|/  Author:     Brandon Fowler <brandfowl@gmail.com>
+|   AuthorDate: Thu Dec 18 18:46:05 2025 -0500
+|   Commit:     Tester <test@invalid>
+|   CommitDate: Thu Jan 1 12:00:00 2026 +0000
+|   
+|       B3
+|   
+|   diff --git a/b b/b
+|   index 5f5521f..7e7bb22 100644
+|   --- a/b
+|   +++ b/b
+|   @@ -1 +1 @@
+|   -abc
+|   +wabc
+|   @@ -2,0 +3 @@ def
+|   +ghi
+| 
+* commit 34ab4cc0e0b859cc39518ca5d86f2f1b17369179
+| Author:     Brandon Fowler <brandfowl@gmail.com>
+| AuthorDate: Thu Dec 18 18:46:05 2025 -0500
+| Commit:     Brandon Fowler <brandfowl@gmail.com>
+| CommitDate: Thu Dec 18 18:46:05 2025 -0500
+| 
+|     2
+| 
+| diff --git a/a b/a
+| index 190a180..ce8c77d 100644
+| --- a/a
+| +++ b/a
+| @@ -1,0 +2 @@
+| +456
+| diff --git a/b b/b
+| index 8baef1b..5f5521f 100644
+| --- a/b
+| +++ b/b
+| @@ -1,0 +2 @@ abc
+| +def
+| 
+* commit f8b912520617c6cb4201271aaf76fb23c452a49d
+  Author:     Brandon Fowler <brandfowl@gmail.com>
+  AuthorDate: Thu Dec 18 18:46:05 2025 -0500
+  Commit:     Brandon Fowler <brandfowl@gmail.com>
+  CommitDate: Thu Dec 18 18:46:05 2025 -0500
+  
+      1
+  
+  diff --git a/.gitattributes b/.gitattributes
+  new file mode 100644
+  index 0000000..176a458
+  --- /dev/null
+  +++ b/.gitattributes
+  @@ -0,0 +1 @@
+  +* text=auto
+  diff --git a/a b/a
+  new file mode 100644
+  index 0000000..190a180
+  --- /dev/null
+  +++ b/a
+  @@ -0,0 +1 @@
+  +123
+  diff --git a/b b/b
+  new file mode 100644
+  index 0000000..8baef1b
+  --- /dev/null
+  +++ b/b
+  @@ -0,0 +1 @@
+  +abc

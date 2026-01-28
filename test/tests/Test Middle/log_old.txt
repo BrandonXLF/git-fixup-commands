@@ -1,0 +1,74 @@
+* commit 133005c8ee2e4184bfdcdc0ccc1cab55c05327f4
+| Author:     Brandon Fowler <brandfowl@gmail.com>
+| AuthorDate: Thu Dec 18 18:48:20 2025 -0500
+| Commit:     Brandon Fowler <brandfowl@gmail.com>
+| CommitDate: Thu Dec 18 18:48:20 2025 -0500
+| 
+|     Commit 4
+| 
+| diff --git a/b b/b
+| index 57f8ab2..effc38c 100644
+| --- a/b
+| +++ b/b
+| @@ -3 +3 @@ File b
+| -2
+| +2.1
+| 
+* commit d779932e4d5a046d0d75b8b7f5ef77009e81bc75
+| Author:     Brandon Fowler <brandfowl@gmail.com>
+| AuthorDate: Thu Dec 18 18:48:20 2025 -0500
+| Commit:     Brandon Fowler <brandfowl@gmail.com>
+| CommitDate: Thu Dec 18 18:48:20 2025 -0500
+| 
+|     Commit 3
+| 
+| diff --git a/a b/a
+| index 3e58f12..2e04ccc 100644
+| --- a/a
+| +++ b/a
+| @@ -3,0 +4,2 @@ It has text!
+| +
+| +Another linee
+| 
+* commit 0f0b1e8d13b1cc3bedb5e398f992a57f76df733d
+| Author:     Brandon Fowler <brandfowl@gmail.com>
+| AuthorDate: Thu Dec 18 18:48:20 2025 -0500
+| Commit:     Brandon Fowler <brandfowl@gmail.com>
+| CommitDate: Thu Dec 18 18:48:20 2025 -0500
+| 
+|     Commit 2
+| 
+| diff --git a/b b/b
+| new file mode 100644
+| index 0000000..57f8ab2
+| --- /dev/null
+| +++ b/b
+| @@ -0,0 +1,3 @@
+| +File b
+| +
+| +2
+| 
+* commit 3617455c8adca8e4d454a3f5dc61c202c1565525
+  Author:     Brandon Fowler <brandfowl@gmail.com>
+  AuthorDate: Thu Dec 18 18:48:20 2025 -0500
+  Commit:     Brandon Fowler <brandfowl@gmail.com>
+  CommitDate: Thu Dec 18 18:48:20 2025 -0500
+  
+      Commit 1
+  
+  diff --git a/.gitattributes b/.gitattributes
+  new file mode 100644
+  index 0000000..176a458
+  --- /dev/null
+  +++ b/.gitattributes
+  @@ -0,0 +1 @@
+  +* text=auto
+  diff --git a/a b/a
+  new file mode 100644
+  index 0000000..3e58f12
+  --- /dev/null
+  +++ b/a
+  @@ -0,0 +1,3 @@
+  +This is a file
+  +
+  +It has text!
