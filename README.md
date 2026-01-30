@@ -2,7 +2,7 @@
 
 > pip install git-fixup-commands
 
-A suite of Git commands to easily fixup previous Git commits using `git commit --fixup` and `git rebase`. Works with any commit in the commit tree, including the root commit and merge commits.
+A suite of Git commands to easily fixup previous Git commits using `git commit --fixup` and `git rebase --autosquash`. Works with any commit in the commit tree, including the root commit and merge commits.
 
 ## Commands
 
