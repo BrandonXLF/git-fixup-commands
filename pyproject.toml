@@ -4,21 +4,21 @@ build-backend = "hatchling.build"
 
 [project]
 name = "git-fixup-commands"
-version = "1.0.0"
+version = "1.0.1"
 requires-python = ">= 3.7"
 authors = [{name = "Brandon Fowler"}]
-description = "A suite to commands to easily fixup previous Git commits using `git commit --fixup` and `git rebase`."
+description = "A suite of Git commands to easily edit any previous Git commit via `git commit --fixup` and `git rebase --autosquash`."
 readme = "README.md"
 license = "GPL-2.0-only"
 license-files = ["LICENSE"]
-keywords = ["git", "fixup", "amend", "reword", "commit", "rebase"]
+keywords = ["git", "fixup", "amend", "reword", "edit", "commit", "rebase"]
 classifiers = [
   "Development Status :: 5 - Production/Stable",
   "Intended Audience :: Developers",
   "Environment :: Console",
   "Topic :: Software Development :: Version Control",
   "Topic :: Software Development :: Version Control :: Git",
-  "License :: OSI Approved :: MIT License",
+  "License :: OSI Approved :: GNU General Public License v2 (GPLv2)",
   "Programming Language :: Python :: 3",
   "Programming Language :: Python :: 3.7",
   "Programming Language :: Python :: 3.8",
